@@ -11,3 +11,9 @@ https://doc.rust-lang.org/stable/book/
 ## nostarch print version
 
 ![](nostarch_rust.png)
+
+## further reading
+
+[Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
+
+[Idiomatic Rust](https://github.com/mre/idiomatic-rust)
