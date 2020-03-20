@@ -15,3 +15,5 @@ ref: https://doc.rust-lang.org/book/2018-edition/
 [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
 [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+
+[The Rustonomicon - The Dark Arts of Unsafe Rust](https://doc.rust-lang.org/nightly/nomicon/)
